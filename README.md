@@ -4,7 +4,7 @@ Klasyczna gra w warcaby zaimplementowana w języku Java z wykorzystaniem bibliot
 
 ## Główne Funkcjonalności
 
-  **Rozgrywka Lokalna**: Umożliwia grę dla dwóch graczy na jednym komputerze.
+  **Rozgrywka Lokalna**: Umożliwia grę dla dwóch graczy na jednym komputerze.\n
   **Gra z Komputerem**: Pozwala na rozgrywkę przeciwko prostej sztucznej inteligencji.
   **Gra Sieciowa (Multiplayer Online)**: Wspiera rozgrywkę między dwoma graczami na różnych komputerach poprzez połączenie klient-serwer.
   **Interfejs Graficzny Użytkownika (GUI)**: Intuicyjny interfejs oparty na bibliotece Swing, obejmujący menu startowe, wybór trybu gry oraz planszę.
